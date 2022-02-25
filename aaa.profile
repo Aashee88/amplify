@@ -1,0 +1,1 @@
+export PATH= Wisdoms-iMac:HTML:CSS:JSS wisdomtreearts$/.npm-global/bin:$PATH
